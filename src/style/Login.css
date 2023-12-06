@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(238, 238, 252);
+}
+
+/* ......logo.......  */
+.boxStyle{
+    margin: 20px 0 0 0;
+}
+.boxStyle :hover{
+    transform: scale(1.1); 
+}
+img{
+    border-radius: 15px;
+} 
+/* ........loginBody.......  */
+.paperStyle{
+    padding: 20px;
+    height: 55vh;
+    width: 370px;
+    margin: 20px auto 0 auto;
+}

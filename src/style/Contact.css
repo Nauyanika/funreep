@@ -1,0 +1,77 @@
+/* body{
+    background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+} */
+.contact-form{
+    background: #fff;
+    margin-top: -1%;
+    margin-bottom: 1%;
+    width: 90%;
+}
+.contact-form .form-control{
+    border-radius: 8px;
+}
+.contact-image{
+    text-align: center;
+}
+.contact-image img{
+    border-radius: 6rem;
+    width: 11%;
+    margin-top: -5%;
+    transform: rotate(30deg);
+}
+.contact-form form{
+    padding: 10%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h3{
+    margin-bottom: 8%;
+    margin-top: -10%;
+    /* margin-left: -10%; */
+    text-align: center;
+    color: #0062cc;
+}
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btnContactSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
+.icon{
+    margin-top: 10px;
+}
+.borders{
+    padding: 0 10px 0 10px ;
+}
+
+/* h3 {
+margin-left: -750px;
+} */
+
+.inputfield
+ {  
+ 
+ 
+ font-size: 20px!important; 
+ font-family:'Lato', sans-serif !important;
+ font-weight: 400;
+  height: 50px;
+ width:100%;  
+ line-height: 10px!important;  
+ 
+ }
